@@ -5,4 +5,6 @@
 
 <h5>Deploy trigger jenkins :) :)</h5>
 
-<h5> (: Ciao From Ubuntu VM :)</h5>
+<h5> Younes Ciao From Ubuntu VM :)</h5>
+
+<h5> Lara Ciao From Raspberry-pi :)</h5>
